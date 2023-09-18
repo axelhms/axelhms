@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Axel, a fullstack developer who started coding 5 years ago ! I enjoy working with Javascript (Angular / React / Node) and PHP (Symfony).
+I'm Axel, a full stack developer who started coding 5 years ago ! I enjoy working with Javascript (Angular / React / Node) and PHP (Symfony).
 
 📫 Reach me : [hemissi.axel@gmail.com](hemissi.axel@gmail.com)
 
