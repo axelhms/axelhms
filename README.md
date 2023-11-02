@@ -1,5 +1,11 @@
 # Hi there 👋
-I'm Axel, a full stack developer who started coding 5 years ago ! I enjoy working with Javascript (Angular / React / Node) and PHP (Symfony).
+👨🏻‍💻 Full Stack Software Engineer with over 5 years of experience, I specialize in JavaScript (TypeScript / React / Next.js / Node.js) and PHP (Symfony). Beyond the code, here's what I bring to the table:
+
+🤝 Seamless team integration.
+📢 Clear and precise communication.
+🎯 An innate proactive inclination.
+
+🚀 Driven by a passion for tech, especially in the SaaS realm, I'd be thrilled to collaborate with companies looking to innovate or enhance their platforms. Don't hesitate to drop me a message!
 
 📫 Reach me : [hemissi.axel@gmail.com](hemissi.axel@gmail.com)
 
